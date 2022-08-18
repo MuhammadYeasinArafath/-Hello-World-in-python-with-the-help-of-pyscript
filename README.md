@@ -2,4 +2,4 @@
 <br>
 “Hello, World!” in python with the help of PyScript.
 <br>
-live link:
+live link: https://muhammadyeasinarafath.github.io/-Hello-World-in-python-with-the-help-of-pyscript/
